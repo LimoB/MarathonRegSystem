@@ -1,0 +1,11 @@
+# Ignore node_modules in backend and frontend
+MarathonBackend/node_modules/
+MarathonFrontend/node_modules/
+
+# Ignore environment files
+# Backend/.env
+# housing-frontend/.env
+
+# Optional: ignore build outputs
+Backend/dist/
+housing-frontend/dist/
